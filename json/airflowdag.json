@@ -1,0 +1,4 @@
+{
+"env":"dev",
+"schedule_interval":"30 11 * * *"
+}
